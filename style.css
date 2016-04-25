@@ -1,0 +1,88 @@
+html {  font-size:  62.5%; }
+body {
+	width:  960px;
+	margin: 0 auto;
+	padding: 0;
+	font-family:  Georgia, Times, "Times New Roman", serif;
+	font-size:  1.6em;
+}
+.topBanner {
+	margin-top:  10px;
+	border:  5px solid #5F5959;
+}
+.main .bottomBanner {
+	color:  #1F1616;
+	text-align: center;
+	margin:  0 0 10px 0;
+}
+.main .bottomBanner h1 h2 p  {
+	line-height: .1em;
+}
+.main .bottomBanner h2 {
+	color:  #1F1616;
+}
+.newFont {
+	font-family: 'KaushanScript';
+	background: linear-gradient(to right, rgba(125,126,125,1) 0%,rgba(14,14,14,1) 100%);
+	color:  #ffffff;
+	padding:  10px;
+	border-radius: 5px;
+}
+span {
+	text-transform: uppercase;
+	font-size:  20px;
+	font-weight:  bold;
+	color: #C59BF0;
+}
+.main h2 {
+	color:  #96F17E;
+}
+footer {
+	padding:  10px 0;
+	margin: 10px 0;
+	text-align: center;
+}
+footer nav li{	
+	display:  inline-block;
+}
+footer p {
+	font-style:  italic;
+}
+.pictures {
+	float: left;
+	margin: 0 20px 0 0;
+}
+.pictures figcaption {
+	max-width:  300px;
+	font-size:  12px;
+	font-style:  italic;
+	margin-bottom:  5px;
+}
+.pullQuote {
+	font-family:  'AlexBrush', sans-serif;
+	font-size:  2em;
+	float: right;
+	border-top:  1px dashed #5B4E4E;
+	border-bottom:  1px dashed #5B4E4E;
+	padding:  20px 0;
+	margin:   0 0 0 20px;
+	width:  300px;
+}
+.sidebar {
+	width:  280px;
+	font-size:  0.9em;
+	float:  left;
+	background-color: #D3C1E8;
+	padding:  10px;
+}
+.sidebar nav  {
+	line-height: 25px;
+}
+.main {
+	float:  left;
+	width:  620px;	
+	padding:  0 20px;
+}
+footer {
+	clear:  both;
+}
